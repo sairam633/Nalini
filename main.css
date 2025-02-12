@@ -56,3 +56,17 @@ body{
     color: #8D09C6;
     padding-top: 12px;
 }
+
+.f-button{
+    text-align: center;
+    vertical-align: middle;
+    width: 276px;
+    height: 61px;
+    margin-top: 50px;
+    background-color: #8D09C6;
+    border: none;
+    border-radius: 50px;
+    color: aliceblue;
+    font-family: 'Inria Serif';
+    font-size: 32px;
+}
