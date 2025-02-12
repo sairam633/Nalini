@@ -1,0 +1,17 @@
+body{
+    padding-bottom: 1000px;
+}
+
+
+.navbar{
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 30px;
+    background-color: rgba(255, 97, 246, 0.11);
+    box-shadow: 3px 3px 17px rgba(0, 0, 0, 0.25);
+}
+
+.navbar-brand,.nav-link{
+    font-family: 'Inria Serif';
+    color: #1A1414;
+}
