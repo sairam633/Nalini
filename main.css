@@ -15,3 +15,22 @@ body{
     font-family: 'Inria Serif';
     color: #1A1414;
 }
+
+.f-div{
+    padding-top: 150px;
+}
+
+
+.main-head{
+    font-family: 'Inria Serif';
+    font-weight: 0;
+    color: #1A1414;
+    margin-bottom: 20px;
+}
+.main-head-2{
+    font-family: 'Inria Serif';
+    line-height: 76.46px;
+    
+    font-size: 64px;
+    color: #8D09C6;
+}
