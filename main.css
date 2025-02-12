@@ -70,3 +70,17 @@ body{
     font-family: 'Inria Serif';
     font-size: 32px;
 }
+
+.imag{
+    border: 1px solid blue;
+    background-color: #8D09C6;
+    height: 480px;
+    width: 470px;
+    border-radius: 700px;
+}
+
+.nalini-img{
+    width: 450px;
+    margin-top: 28px;
+    margin-left: 5px;
+}
