@@ -34,3 +34,25 @@ body{
     font-size: 64px;
     color: #8D09C6;
 }
+
+.first-icons{
+    margin-top: 20px;
+    width: 276px;
+    height: 61px;
+}
+
+
+.first-icon-images{
+    text-align: center;
+    vertical-align: middle;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: 1.5px solid #8D09C6;
+}
+
+.f-icons{
+    font-size: 30px;
+    color: #8D09C6;
+    padding-top: 12px;
+}
