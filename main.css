@@ -127,7 +127,6 @@ body{
 
 .slide-3{
     height: 90vh;
-    border: 2px solid blue;
     padding: 40px 20px 20px 20px;
 }
 
@@ -140,7 +139,6 @@ body{
 }
 
 .skills-tabs{
-    border: 2px solid green;
     padding: 50px 20px 20px 20px;
     display: flex;
     justify-content: space-around;
@@ -173,6 +171,7 @@ body{
 .skills-tab-head{
     text-align: center;
     margin-bottom: 70px;
+    padding-left: 20px;
 }
 
 .skills-but-div{
@@ -189,4 +188,25 @@ body{
     justify-content: space-around;
     text-align: center;
     width: 500px;
+}
+
+.skills-icon{
+    width: 50px;
+}
+
+.Ai-para{
+    background-color: #330000;
+    color: #FF9A00;
+    padding: 10px 15px 10px 15px;
+    border-radius: 10px;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: -5px;
+}
+
+.skills-bit-div{
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
