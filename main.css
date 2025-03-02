@@ -138,3 +138,55 @@ body{
     font: inter;
     font-weight: 700;
 }
+
+.skills-tabs{
+    border: 2px solid green;
+    padding: 50px 20px 20px 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.s-button{
+    text-align: center;
+    vertical-align: middle;
+    background-color: #8D09C6;
+    border: none;
+    border-radius: 50px;
+    color: aliceblue;
+    font-family: 'Arial';
+    font-weight: 600;
+    padding: 10px;
+    border-bottom: 10px;
+    width: 150px;
+}
+
+.first-skills-tab{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+    border-radius: 20px;
+    width: 500px;
+    height: 400px;
+    padding: 30px 30px 30px 0px;
+}
+
+.skills-tab-head{
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+.skills-but-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    flex-wrap: wrap;
+    flex-grow: 3;
+}
+
+.but-div{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    width: 500px;
+}
