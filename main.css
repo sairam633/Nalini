@@ -86,3 +86,26 @@ body{
     margin-top: 30px;
     margin-left: 5px;
 }
+
+
+.slide-2{
+    height: 90vh;
+    border: 2px solid blue;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.about-me-hr{
+    border: 3px solid black;
+}
+
+.about-me{
+    color: #8D09C6;
+    font-weight: bold;
+    font-size: 64px;
+}
+
+.about-me-details-div{
+    width: 600px;
+}
