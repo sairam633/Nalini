@@ -90,7 +90,6 @@ body{
 
 .slide-2{
     height: 90vh;
-    border: 2px solid blue;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -107,5 +106,21 @@ body{
 }
 
 .about-me-details-div{
-    width: 600px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.ui-ux-head{
+    color: #8D09C6;
+    font-family: Inria serif;
+    font-weight: 500;
+}
+
+.about-me-para{
+    color: #1A1414;
+    font-weight: bold;
+    font-size: 20px;
+    width: 550px;
 }
