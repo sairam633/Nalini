@@ -124,3 +124,17 @@ body{
     font-size: 20px;
     width: 550px;
 }
+
+.slide-3{
+    height: 90vh;
+    border: 2px solid blue;
+    padding: 40px 20px 20px 20px;
+}
+
+.skills-head{
+    text-align: center;
+    color: #8D09C6;
+    font-size: 64px;
+    font: inter;
+    font-weight: 700;
+}
